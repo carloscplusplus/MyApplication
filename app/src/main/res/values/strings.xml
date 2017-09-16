@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="Titulo"></string>
+    <string name="TituloProgress">Uso de ProgressBar</string>
+    <string name="Btn1">NUEVO ESTUDIANTE</string>
+    <string name="Btn2">LISTA ESTUDIANTES</string>
+    <string name="BotonListado">LISTAR ALIMENTOS</string>
+    <string name="lblNombre">Nombre</string>
+    <string name="lblCodigo">Código</string>
+    <string name="lblMateria">Materia</string>
+    <string name="lblParcial1">Parcial 1</string>
+    <string name="lblParcial2">Parcial 2</string>
+    <string name="lblParcial3">Parcial 3</string>
+    <string name="lblPromedio">Promedio</string>
+    <string name="ProgressHorizontal">Horizontal</string>
+    <string name="ProgressCircular">Circular</string>
+    <string name="btnIniciar">Iniciar</string>
+</resources>
